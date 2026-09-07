@@ -25,7 +25,7 @@ files and supports powerful filtering with a query language
 - [Interfaces](#interfaces)
   - [Emacs interface](#emacs-interface)
 - [Requirements](#requirements)
-- [Inspiration](#inspiration)
+- [Acknowledgments](#acknowledgments)
 
 ## Features
 
